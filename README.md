@@ -1,4 +1,3 @@
-
 ---
 
 ### Anonymous GitHub Repository `README.md`
