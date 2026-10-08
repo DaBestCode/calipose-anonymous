@@ -1,4 +1,3 @@
----
 
 ### Anonymous GitHub Repository `README.md`
 And here is the updated text for your Anonymous GitHub repository `README.md` so it cross-references your Hugging Face weights correctly:
