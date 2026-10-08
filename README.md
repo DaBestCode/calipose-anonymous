@@ -6,13 +6,14 @@ Official PyTorch implementation and pre-trained weights for our WACV submission 
 
 ## 🛠️ Repository Contents
 * **`train.py`**: Complete training pipeline, data loaders, 3-channel event tensor builder, spatial-temporal augmentations, and the `SparkV30Net` architecture.
-* **`weights/spark_v30_best.pth`**: Pre-trained model weights achieving state-of-the-art orientation robustness on the SPADES real test split.
+
 
 ---
 
-## 🚀 Quick Start Guide
+## 🚀 Quick Start & Pre-Trained Weights
 
 ### 1. Environment Requirements
 Ensure your environment has PyTorch, Torchvision, H5Py, and SciPy installed:
 ```bash
 pip install torch torchvision h5py numpy scipy pillow
+* **Pre-Trained Weights (Hugging Face):** Download `spark_v30_best.pth` directly from [Hugging Face Model Hub](https://huggingface.co/your-username/calipose-sparkv30).
